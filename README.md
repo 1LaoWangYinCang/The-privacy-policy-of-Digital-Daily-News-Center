@@ -1,15 +1,13 @@
-# The-privacy-policy-of-TiYuWeiTanDashi
+# The-privacy-policy-of-SuBiFenXianFeng
 
 This App knows the importance of personal information to you and will do its best to protect your personal information safely and reliably. We are committed to maintaining your trust in us and to protecting your personal information by adhering to the following principles: the principle of consistent authority and responsibility, the principle of clarity of purpose, the principle of optional consent, the principle of least sufficient, the principle of ensuring safety, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this Privacy Policy carefully before using our products (or services).
 How do we collect and use your personal information
 Personal information refers to all kinds of information recorded by electronic or other means that can identify the identity of a particular natural person or reflect the activities of a particular natural person individually or in combination with other information. We will only collect and use your personal Information for the following purposes set forth in this Policy:
-(I) To provide you with the purchase of ball games equipment services
+(A) To provide you with triathlon equipment purchase services
 1. Business Function 1: Register as a user
 To complete the account creation, you need to provide the following information: mobile phone number, created account and password.
-The information provided by you will continue to be authorized for the duration of your use of the Service. When you cancel your account, we will stop using and delete the above information.
-The above information will be stored in the People's Republic of China. If cross-border transmission is required, we will obtain your authorization alone.
-2. Business Function 2: We will show you all kinds of ball games equipment we sell
-(1) We displayed various kinds of ball games equipment
+You provide the above letter to us for the sale of various triathlon equipment
+A: We showed off all kinds of triathlon equipment
 (II) Carry out internal data analysis and research, third party SDK statistics services, and improve our products or services
 We collect data based on your interactions with us and the choices you make, including your privacy Settings and the products and features you use. We collect data may include the SDK/API/JS code version, browser, Internet service providers (isps), IP address, platform, timestamp, identifier, version of the application, the application distribution channels, independent device identifier, iOS advertising identifier (IDFA), android advertisers identifier, nic (MAC) address, international mobile equipment identification number (IMEI), equipment type, terminal manufacturers, terminal equipment operating system version, session start/stop time, local language, time zone and network status (WiFi, etc.), hard disk, CPU, and battery usage, etc.
 When we wish to use the information for other purposes not specified in this Policy, we will seek your prior consent.
@@ -45,6 +43,6 @@ Account information -- If you want to access or edit personal information and pa
 V. How to update this Privacy Policy
 We may adjust or change this Privacy Policy in due course, and any update of this Privacy Policy will be posted on our website at the time of the update. Unless otherwise mandatory by laws, regulations or regulations, the content adjusted or changed will take effect 7 days after notice or publication. If you continue to use any of our services or visit our relevant websites after the policy has been adjusted or changed, we believe that you have fully read, understood and accepted the revised Privacy Policy and are bound by it.
 How to contact us
-If you have any questions, comments or Suggestions regarding this Privacy Policy, please contact us at axk74cr27@21cn.com:
+If you have any questions, comments or Suggestions about this privacy policy, please contact us at sf19860812@icloud.com:
 
 As a rule, we will reply you within 30 days.

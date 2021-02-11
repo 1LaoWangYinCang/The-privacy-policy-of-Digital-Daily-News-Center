@@ -1,4 +1,4 @@
-# The-privacy-policy-of-Digital Hotspots Park
+# The-privacy-policy-of-Digital Information Wall
 
 This App knows the importance of personal information to you and will do its best to protect your personal information safely and reliably. We are committed to maintaining your trust in us and to protecting your personal information by adhering to the following principles: the principle of consistent authority and responsibility, the principle of clarity of purpose, the principle of optional consent, the principle of least sufficient, the principle of ensuring safety, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this Privacy Policy carefully before using our products (or services).
 How do we collect and use your personal information
@@ -43,6 +43,6 @@ Account information -- If you want to access or edit personal information and pa
 V. How to update this Privacy Policy
 We may adjust or change this Privacy Policy in due course, and any update of this Privacy Policy will be posted on our website at the time of the update. Unless otherwise mandatory by laws, regulations or regulations, the content adjusted or changed will take effect 7 days after notice or publication. If you continue to use any of our services or visit our relevant websites after the policy has been adjusted or changed, we believe that you have fully read, understood and accepted the revised Privacy Policy and are bound by it.
 How to contact us
-If you have any questions, comments or suggestions regarding this Privacy Policy, please contact us at stetheuci@hotmail.com:
+If you have any questions, comments or suggestions regarding this Privacy Policy, please contact us at edg36mn@126.com
 
 As a rule, we will reply you within 30 days.
